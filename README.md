@@ -1,6 +1,9 @@
 # AI Product Advisor
 
 An intelligent mobile app built with React Native that uses OpenAI's powerful language model to recommend products. Just describe what you need, and our AI will find the best match from a product catalog and explain its choices.
+<img width="462" height="736" alt="Screenshot 2025-09-19 at 10 52 40 PM" src="https://github.com/user-attachments/assets/dec95962-660b-4773-bdd0-9a1d284fe0d1" />
+<img width="457" height="658" alt="Screenshot 2025-09-19 at 10 52 01 PM" src="https://github.com/user-attachments/assets/ec35c00a-ea80-491b-9e5b-58b9adcb5bd2" />
+
 
 **Features**
 
